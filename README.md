@@ -1,9 +1,12 @@
+Group finding app for 2nd year summer project
+Expo + Supabase
+
 ## Installation Instructions
 
 Clone project:
 
 ```bash
-git clone https://github.com/EthanHosier/drp-35.git
+git clone https://github.com/ccchi9903/Group-finder.git
 ```
 
 Install dependencies:
